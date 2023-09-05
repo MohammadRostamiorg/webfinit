@@ -1,0 +1,20 @@
+pkgbase = webFinit
+	pkgdesc = A simple package that helps you to create a frontend project scoff
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/mohammadrostamiorg/webFinit
+	arch = any
+	license = MIT
+	depends = bash
+	depends = coreutils
+	depends = tree
+	source = webFinit.sh
+	source = vanila.txt
+	source = tailwind.txt
+	source = bootstrap.txt
+	sha256sums = 1d77bc1ff53991305760b2a3ce22cce2489932179bfd7f7973b6601613aab9b0
+	sha256sums = 8fc81d63ff86123e889ddffa9fcebb11fe0510bfa301031e57ebbf2e1d34b674
+	sha256sums = a8fce3460227094d2a4e63044537b09e546ce8c37f6e8358566c27b8934869a0
+	sha256sums = 5930b05e4e60f30f27e6070aa6fde424e4bbe55d22a71a50124700cf7839c740
+
+pkgname = webFinit
